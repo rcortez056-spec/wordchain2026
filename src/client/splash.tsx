@@ -18,11 +18,7 @@ export const Splash = () => {
           Hey {context.username ?? 'user'} 👋
         </h1>
         <p className="text-base text-center text-gray-600 dark:text-gray-300">
-          Edit{' '}
-          <span className="bg-[#e5ebee] dark:bg-gray-700 px-1 py-0.5 rounded">
-            src/client/splash.tsx
-          </span>{' '}
-          to get started.
+          Start with "reddit" and chain words. Each word must begin with the last letter of the one before it.
         </p>
       </div>
       <div className="flex items-center justify-center mt-5">
