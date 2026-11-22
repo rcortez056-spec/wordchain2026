@@ -17,7 +17,7 @@ A high-performance daily word puzzle built natively for Reddit using Devvit.
 
 ## Status
 
-Production-Ready | Built for the Reddit Devvit Hackathon 2026
+Production-Ready | Built for the Reddit Devvit Hackathon 2026 [Game app](https://www.reddit.com/r/wordchain2026_dev)
 
 ## Built By
 
