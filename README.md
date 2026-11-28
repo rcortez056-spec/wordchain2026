@@ -1,24 +1,21 @@
 # Word Chain 2026
 
-A high-performance daily word puzzle built natively for Reddit using Devvit.
+A daily word-chain puzzle built natively for Reddit using Devvit and TypeScript.
 
-## Core Features
+## How It Works
 
-- **Daily Word Chain:** Connect trending subreddit terms within a fast-paced timer.
-- **3-Day Streak Persistence:** Keep players returning daily with built-in streak tracking.
-- **Native Community Loop:** Share scores directly into subreddit comments.
+Players chain words together where each new word must start with the last letter of the previous word. The game validates each entry client-side and tracks your full word history.
 
-## Tech Stack & Environment
+## Live App
 
-- **Platform:** Reddit Devvit SDK
-- **Language & Runtime:** TypeScript, Node.js
-- **Development Environment:** Visual Studio Code (Local IDE & Extension Integration)
-- **Version Control & Deployment:** GitHub, Git
+Play it on Reddit: https://www.reddit.com/r/word_2026_dev/?playtest=word-2026
 
-## Status
+## Built With
 
-Production-Ready | Built for the Reddit Devvit Hackathon 2026 [Game app](https://www.reddit.com/r/wordchain2026_dev)
+- Devvit (Reddit's developer platform)
+- TypeScript / React
+- Client-side string validation
 
-## Built By
+## Author
 
-Ramon Cortez — AI Architect 
+[Ramon Cortez](https://linkedin.com/in/ramon-cortez-a227a2112)
